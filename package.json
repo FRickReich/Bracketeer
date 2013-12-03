@@ -1,0 +1,20 @@
+{
+  "name": "Bracketeer",
+  "version": "0.0.1",
+  "description": "Bracketeer is a simple way to search an replace brackets inside a string.",
+  "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FRickReich/Bracketeer.git"
+  },
+  "keywords": [
+    "brackets",
+    "strings",
+    "replace"
+  ],
+  "author": "F. Rick Reich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FRickReich/Bracketeer/issues"
+  }
+}
