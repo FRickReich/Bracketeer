@@ -24,9 +24,13 @@ string.bracketeer(array)
 an array of strings is needed (best served by a database) because if the string is not found then it will put the class "missing" to the link:
 
 ```
+var bracketeer = require('bracketeer');
+
 var array = ["guest", "user"];
 
 var string = "Hey! this is another [[test]], it is just for testing purposes!"
+
+string.bracketeer(array)
 
 // #=> Hey! this is a <a href="/test" class="missing">test</a>, it is just for testing purposes!
 ```
