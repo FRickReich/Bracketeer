@@ -1,6 +1,7 @@
 BRACKETEER
 ==========
-An easy to use string-to-link replacement module working with brackets just like you know it from wikis.
+
+An easy to use node.js module to create double-bracket wiki links.
 
 How to use it?
 --------------
@@ -21,7 +22,7 @@ string.bracketeer(array)
 // #=> Hey! this is a <a href="/test">test</a>, it is just for testing purposes!
 ```
 
-an array of strings is needed (best served by a database) because if the string is not found then it will put the class "missing" to the link:
+an array of strings is needed (best served by a database) because if the string is not found then it will put the class "missing" to the link, so you can easily style it differently.
 
 ```
 var bracketeer = require('bracketeer');
