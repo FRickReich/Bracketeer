@@ -39,3 +39,5 @@ string.bracketeer(array)
 License
 -------
 Copyright (c) 2013 F. Rick Reich & Ben Atkin. Licensed under the terms of the MIT license.
+
+http://frickreich.mit-license.org/
