@@ -1,6 +1,6 @@
 {
   "name": "bracketeer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Bracketeer is a simple way to search an replace brackets inside a string.",
   "main": "./index.js",
   "repository": {
